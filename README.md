@@ -5,9 +5,7 @@
 </h1>
 
 <h3 align="center">🇫🇷 About the Developper 🇫🇷</h3>
-
 <br/>
-
 <div align="center">
   
   🔭 I’m currently working on **a Portfolio**
@@ -19,8 +17,8 @@
 </div>
  
 <div align="center"> 
-  <a href="mailto:materrazzi.pro@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  <a href="mailto:materrazzi.pro@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   
   <a href="https://linkedin.com/in/" target="_blank">
@@ -29,13 +27,18 @@
 </div>
 
 <h2 align="center">⚒️ Languages Frameworks Tools ⚒️</h2>
-
 <br/>
-
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,androidstudio,nodejs,python,javascript,typescript,mysql" />
     <br />
     <img src="https://skillicons.dev/icons?i=codepen,discord,docker,gitlab,gmail,instagram,kotlin,laravel,linkedin,php,phpstorm,postman,sass,stackoverflow" />
     <br />
     <img src="https://skillicons.dev/icons?i=ts,ubuntu,debian,vercel,vite,notion,npm,pnpm,redux,svg,webstorm,wordpress,windows,apple" />
+</div>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=hermesrhodev&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=325 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=hermesrhodev&hide=HTML&langs_count=6&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
